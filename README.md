@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jay Bhatt</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay Bhatt</h1>
 <h3 align="center">A Web and Software Developer With Learnings in Many Different Languages, Frameworks & Libraries.</h3>
+
+##
+- 🌱 I am currently MScIT student at DAIICT, Gandhinagar
 
 - 💬 Ask me about **C | C++ | Java | Python (Django) | PHP | HTML | CSS | JavaScript**
 
 - 📫 How to reach me **jaybhatt94290@gmail.com**
+
+- ⚡ Fun fact: **I play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
