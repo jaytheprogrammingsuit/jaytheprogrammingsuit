@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ##
 - 🌱 I am currently MScIT student at DAIICT, Gandhinagar
 
-- 💬 Ask me about **C | C++ | Java | Python (Django) | PHP | HTML | CSS | JavaScript**
+- 💬 Ask me about **C | C++ | Java | Python (Django) | PHP | HTML | CSS | JavaScript (NodeJS)**
 
-- 📫 How to reach me **jaybhatt94290@gmail.com**
+- 📫 How to reach me **jaybhatt068@gmail.com**
 
-- ⚡ Fun fact: **I play chess**
+- ⚡ Fun fact: **I play Table Tennis, Volleyball, Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
